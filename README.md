@@ -1,2 +1,2 @@
-# Lista-de-Exerc-cios-sobre-Switch-Case
+# Lista-de-Exercícios-sobre-Switch-Case
 Exercícios da aula de TPA sobre Switch Case
